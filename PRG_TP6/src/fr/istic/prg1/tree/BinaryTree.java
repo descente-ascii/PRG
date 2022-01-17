@@ -1,4 +1,3 @@
-//Paul Mozet et Baptiste Meauzé
 package fr.istic.prg1.tree;
 
 import java.util.Stack;
